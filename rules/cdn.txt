@@ -1,2 +1,2 @@
-||api.weixin.qq.com
-||api2.mch.weixin.qq.com
+api.weixin.qq.com
+api2.mch.weixin.qq.com
